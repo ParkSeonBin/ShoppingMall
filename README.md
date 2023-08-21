@@ -24,10 +24,9 @@ Database - MySQL
 - 장바구니 담기, 조회, 삭제, 주문
   
 
+## 🧾ERD
+![image](https://github.com/ParkSeonBin/ShoppingMall/assets/95379549/70fd0e1a-efb5-428d-9d61-be2b62fbcbf0)
 
 --- 
 #### 🔜향후 계획
-- UI 수정
-- 출발지 데이터 추가, 좌석 수 데이터 추가
-- 항공사 선택 기능 추가, 좌석 선택 기능 추가
-- 마일리지 기능 추가
+- 검토 및 수정
