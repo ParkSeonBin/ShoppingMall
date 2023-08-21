@@ -1,5 +1,5 @@
 # 🛒SpringBoot Project-Shopping Mall Web
-스프링부트 + JSP - '쇼핑몰 웹사이트'     
+스프링부트 + JPA - '쇼핑몰 웹사이트'     
 
 ## 💻프로젝트 소개
 의류 구매를 위한 쇼핑몰 웹사이트입니다.
